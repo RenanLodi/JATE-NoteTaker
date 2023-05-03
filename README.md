@@ -58,6 +58,6 @@ JATE app file:
 ![Demonstration of the JATE app in the browser.](./Assets/J-A-T-E.png)
 
 ## Github Link
-
+https://github.com/RenanLodi/JATE-NoteTaker.git
 ## Heroku App Link
 
